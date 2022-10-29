@@ -9,3 +9,11 @@ body {
   height: 50px;
   font-weight: bold;
 }
+
+.menu {
+  background-color: darkorange;
+  color: white;
+  font-size: 15px;
+  height: 20px;
+  font-weight: bold;
+}
